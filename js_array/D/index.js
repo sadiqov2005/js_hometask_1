@@ -1,0 +1,33 @@
+
+let login = 'Employee';
+
+
+console.log(login === 'Employee' ? 'Hello':login === 'Director' ? 'Greetings' :login === '' ? 'No login' : '');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
